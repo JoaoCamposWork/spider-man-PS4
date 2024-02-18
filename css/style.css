@@ -874,7 +874,7 @@
 
 @media screen and (max-width: 960px) {
   .social {
-    display: none;
+    display:none;
   }
 }
 
@@ -961,9 +961,9 @@
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
-  width: 36px;
-  height: 36px;
-  background-image: url("../../svg/icon-play.svg");
+  width: 45px;
+  height: 45px;
+  background-image: url("../../svg/T J (1080 x 1350 px)_20240218_160423_0000.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
